@@ -206,4 +206,4 @@ Metadata Analyzer is the complete free version with all features and updates inc
 Take control of your privacy today! Download Metadata Analyzer for free and ensure your Office files are safe and secure.
 
 ---
-**Last updated:** 2026-11-08 09:36:32 UTC
+**Last updated:** 2026-11-08 16:23:40 UTC
